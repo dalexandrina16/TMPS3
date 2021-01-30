@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Interpreter" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../Behavioral Design Patterns/Template" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Observer" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../Behavioral Design Patterns/Memento" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../Behavioral Design Patterns/State" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Iterator" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../Behavioral Design Patterns/Visitor" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../Behavioral Design Patterns/ChainOfResponsibility" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../Behavioral Design Patterns/Command" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../Behavioral Design Patterns/Mediator" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Strategy" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
